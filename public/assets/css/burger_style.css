@@ -1,22 +1,24 @@
 body{
-    background-color: #fff176 !important;
-    font-family: 'Coiny', cursive, serif;
+    background-color: white!important;
+    font-family: 'Raleway', cursive, serif;
     font-size: 16px;
     color: #000;
+    background-image: url('https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/50/Wiki-background/revision/latest?cb=20131220085507');
+    background-repeat: repeat;
   }
   
   .card{
-    padding: 2px;
+    padding: 1px;
   }
 
-  div.nav-wrapper.yellow.lighten-2 {
-
-    height: 150px;
-    line-height: 150px;
-
+  .btn {
+    color: black;
   }
 
   nav {
     height: 150px;
     color: #000;
+    height: 25%;
+    background-color: white;
+
   }
